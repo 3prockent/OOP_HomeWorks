@@ -1,0 +1,14 @@
+C:\Users\nedav\source\repos\Patterns\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.exe
+C:\Users\nedav\source\repos\Patterns\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.deps.json
+C:\Users\nedav\source\repos\Patterns\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.runtimeconfig.json
+C:\Users\nedav\source\repos\Patterns\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.runtimeconfig.dev.json
+C:\Users\nedav\source\repos\Patterns\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.dll
+C:\Users\nedav\source\repos\Patterns\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.pdb
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.csproj.AssemblyReference.cache
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.AssemblyInfoInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.AssemblyInfo.cs
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.dll
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.pdb
+C:\Users\nedav\source\repos\Patterns\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.genruntimeconfig.cache

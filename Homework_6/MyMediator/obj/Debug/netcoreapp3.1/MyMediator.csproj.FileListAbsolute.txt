@@ -1,0 +1,14 @@
+C:\Users\nedav\source\repos\Patterns\MyMediator\bin\Debug\netcoreapp3.1\MyMediator.exe
+C:\Users\nedav\source\repos\Patterns\MyMediator\bin\Debug\netcoreapp3.1\MyMediator.deps.json
+C:\Users\nedav\source\repos\Patterns\MyMediator\bin\Debug\netcoreapp3.1\MyMediator.runtimeconfig.json
+C:\Users\nedav\source\repos\Patterns\MyMediator\bin\Debug\netcoreapp3.1\MyMediator.runtimeconfig.dev.json
+C:\Users\nedav\source\repos\Patterns\MyMediator\bin\Debug\netcoreapp3.1\MyMediator.dll
+C:\Users\nedav\source\repos\Patterns\MyMediator\bin\Debug\netcoreapp3.1\MyMediator.pdb
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.csproj.AssemblyReference.cache
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.AssemblyInfoInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.AssemblyInfo.cs
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.dll
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.pdb
+C:\Users\nedav\source\repos\Patterns\MyMediator\obj\Debug\netcoreapp3.1\MyMediator.genruntimeconfig.cache

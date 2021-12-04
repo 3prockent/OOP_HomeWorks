@@ -1,0 +1,14 @@
+C:\Users\nedav\source\repos\Patterns\MyComposite\bin\Debug\netcoreapp3.1\MyComposite.exe
+C:\Users\nedav\source\repos\Patterns\MyComposite\bin\Debug\netcoreapp3.1\MyComposite.deps.json
+C:\Users\nedav\source\repos\Patterns\MyComposite\bin\Debug\netcoreapp3.1\MyComposite.runtimeconfig.json
+C:\Users\nedav\source\repos\Patterns\MyComposite\bin\Debug\netcoreapp3.1\MyComposite.runtimeconfig.dev.json
+C:\Users\nedav\source\repos\Patterns\MyComposite\bin\Debug\netcoreapp3.1\MyComposite.dll
+C:\Users\nedav\source\repos\Patterns\MyComposite\bin\Debug\netcoreapp3.1\MyComposite.pdb
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.csproj.AssemblyReference.cache
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.AssemblyInfoInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.AssemblyInfo.cs
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.dll
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.pdb
+C:\Users\nedav\source\repos\Patterns\MyComposite\obj\Debug\netcoreapp3.1\MyComposite.genruntimeconfig.cache

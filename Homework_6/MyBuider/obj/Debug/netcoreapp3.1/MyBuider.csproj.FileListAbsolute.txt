@@ -1,0 +1,14 @@
+C:\Users\nedav\source\repos\Patterns\MyBuider\bin\Debug\netcoreapp3.1\MyBuider.exe
+C:\Users\nedav\source\repos\Patterns\MyBuider\bin\Debug\netcoreapp3.1\MyBuider.deps.json
+C:\Users\nedav\source\repos\Patterns\MyBuider\bin\Debug\netcoreapp3.1\MyBuider.runtimeconfig.json
+C:\Users\nedav\source\repos\Patterns\MyBuider\bin\Debug\netcoreapp3.1\MyBuider.runtimeconfig.dev.json
+C:\Users\nedav\source\repos\Patterns\MyBuider\bin\Debug\netcoreapp3.1\MyBuider.dll
+C:\Users\nedav\source\repos\Patterns\MyBuider\bin\Debug\netcoreapp3.1\MyBuider.pdb
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.csproj.AssemblyReference.cache
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.AssemblyInfoInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.AssemblyInfo.cs
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.dll
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.pdb
+C:\Users\nedav\source\repos\Patterns\MyBuider\obj\Debug\netcoreapp3.1\MyBuider.genruntimeconfig.cache

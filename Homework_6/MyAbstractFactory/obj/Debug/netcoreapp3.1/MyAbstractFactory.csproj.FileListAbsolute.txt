@@ -1,0 +1,13 @@
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\bin\Debug\netcoreapp3.1\MyAbstractFactory.exe
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\bin\Debug\netcoreapp3.1\MyAbstractFactory.deps.json
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\bin\Debug\netcoreapp3.1\MyAbstractFactory.runtimeconfig.json
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\bin\Debug\netcoreapp3.1\MyAbstractFactory.runtimeconfig.dev.json
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\bin\Debug\netcoreapp3.1\MyAbstractFactory.dll
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\bin\Debug\netcoreapp3.1\MyAbstractFactory.pdb
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\obj\Debug\netcoreapp3.1\MyAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\obj\Debug\netcoreapp3.1\MyAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\obj\Debug\netcoreapp3.1\MyAbstractFactory.AssemblyInfo.cs
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\obj\Debug\netcoreapp3.1\MyAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\obj\Debug\netcoreapp3.1\MyAbstractFactory.dll
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\obj\Debug\netcoreapp3.1\MyAbstractFactory.pdb
+C:\Users\nedav\source\repos\Patterns\MyAbstractFactory\obj\Debug\netcoreapp3.1\MyAbstractFactory.genruntimeconfig.cache

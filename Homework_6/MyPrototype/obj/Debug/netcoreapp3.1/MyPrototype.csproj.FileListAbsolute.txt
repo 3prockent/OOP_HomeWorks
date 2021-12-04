@@ -1,0 +1,14 @@
+C:\Users\nedav\source\repos\Patterns\MyPrototype\bin\Debug\netcoreapp3.1\MyPrototype.exe
+C:\Users\nedav\source\repos\Patterns\MyPrototype\bin\Debug\netcoreapp3.1\MyPrototype.deps.json
+C:\Users\nedav\source\repos\Patterns\MyPrototype\bin\Debug\netcoreapp3.1\MyPrototype.runtimeconfig.json
+C:\Users\nedav\source\repos\Patterns\MyPrototype\bin\Debug\netcoreapp3.1\MyPrototype.runtimeconfig.dev.json
+C:\Users\nedav\source\repos\Patterns\MyPrototype\bin\Debug\netcoreapp3.1\MyPrototype.dll
+C:\Users\nedav\source\repos\Patterns\MyPrototype\bin\Debug\netcoreapp3.1\MyPrototype.pdb
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.csproj.AssemblyReference.cache
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.AssemblyInfoInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.AssemblyInfo.cs
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.dll
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.pdb
+C:\Users\nedav\source\repos\Patterns\MyPrototype\obj\Debug\netcoreapp3.1\MyPrototype.genruntimeconfig.cache
